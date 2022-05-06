@@ -1,0 +1,71 @@
+.text-10pt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+}
+.heading-blue-12pt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #005BA6;
+	text-decoration: none;
+}
+.heading-blue-16pt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #005BA6;
+	text-decoration: none;
+}
+.heading-blue-18pt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #005BA6;
+	text-decoration: none;
+}
+.heading-blue-22pt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #005BA6;
+	text-decoration: none;
+}
+.heading-black-22pt {
+	font-family: 'helveticaneuecyrlight';
+	font-size: 22px;
+	color: #000000;
+	text-decoration: none;
+}
+.auto-text_white-32pt {
+	font-family: 'helveticaneuecyrlight';
+	font-size: 32px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.photo_left {
+	FLOAT: left;
+	border: 1px double #D5D5D5;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+.photo_right {
+	FLOAT: right;
+	border: 1px double #D5D5D5;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}	
+.photo_board {
+	border: 1px double #D5D5D5;
+	FLOAT: none;
+	MARGIN:  0px
+}
+.table {
+	border-collapse: collapse;
+}
+.table td{
+	border: 1px solid #D1D1D1;
+	padding: 4px;
+}
+.photo_index_center {}

@@ -1,0 +1,75 @@
+html, body{
+	background-color: #FFFFFF;
+	background-repeat: repeat-y;
+	background-position: center top;
+	height: 100%;
+	margin: 0 auto;
+	min-width: 1000px;
+}
+.bg_index {
+	background-image: url(../pictures/bg_index.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: auto 100%;
+	background-color: #d6e2f0;
+}
+.bg_page{
+	background-image: url(../pictures/bg_page.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.bg_blue {
+	background-image: url(../pictures/bg_blue.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	height:131px;
+}
+.bg_green {
+	background-image: url(../pictures/bg_green.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	height:198px;
+}
+.menu_select {
+	background-image: url(../pictures/menu_select.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.menu_select_left {
+	background-image: url(../pictures/menu_select_left.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.menu_select_right {
+	background-image: url(../pictures/menu_select_right.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.menu_select {
+	background-image: url(../pictures/menu_select.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.bg_pls_1 {
+	background-image: url(../pictures/bg_pls_1.png);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	height:7px;
+}
+.bg_pls_2 {
+	background-image: url(../pictures/bg_pls_2.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	height:7px;
+}
+.pls {
+	background-image: url(../pictures/pls.png);
+	background-repeat: repeat-x;
+	background-position: left center;
+}
+
+
+
+
